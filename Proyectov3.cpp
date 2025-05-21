@@ -7,8 +7,6 @@
  * - Visualización de todos los usuarios registrados.
  * - Resumen por tipo de ordenador y servicio.
  * - Resumen de recaudación por categoría.
- *
- * Aún nos falta implementar:
  * - Mostrar usuarios con tiempo mayor al promedio.
  * - Cálculo y visualización de la recaudación total.
  *
